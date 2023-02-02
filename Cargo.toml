@@ -1,5 +1,5 @@
 [package]
-name = "webpack-config-ejs-loader-builder"
+name = "ejs-webpacker"
 version = "0.1.0"
 edition = "2021"
 
